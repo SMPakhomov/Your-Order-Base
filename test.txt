@@ -1,0 +1,4 @@
+Test User:
+	login -> test
+	password -> test
+	E-mail -> test@yandex.ru
